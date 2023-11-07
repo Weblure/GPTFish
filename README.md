@@ -7,7 +7,7 @@
   <a href="https://tesseract.projectnaptha.com/" title="Tesseract - Project Naptha"><img src="https://img.shields.io/badge/dependencies-Tesseract.js-orange" alt="Tesseract.js"></a>
   <a href="https://openai.com/" title="OpenAI"><img src="https://img.shields.io/badge/dependencies-GPT--3.5--turbo-blue" alt="GPT-3.5-turbo"></a>
   <br>
-  <a href="https://www.gnu.org/licenses/gpl-3.0.en.html" title="License"><img src="https://img.shields.io/badge/license-GPL-blue" alt="License"></a>
+  <a href="https://www.gnu.org/licenses/gpl-3.0.en.html" title="License"><img src="https://img.shields.io/badge/license-GPLv3-blue" alt="License"></a>
 </div>
 
 # GPTfish
