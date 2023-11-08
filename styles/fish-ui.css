@@ -42,6 +42,6 @@ that are comfy yet compact.
     font-size: 23px;
     color: var(--fishFontColor);
     /*Text Vertical Alignment*/
-    top: var(--fishHeaderTextVShift)
+    top: var(--fishHeaderTextVShift);
     user-select: none;
 }
